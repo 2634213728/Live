@@ -1,4 +1,6 @@
-# [Live](https://2634213728.github.io/Live/)
+# [Live](https://zengbin.ltd/)
+<!-- https://zengbin.ltd/ -->
+<!-- https://2634213728.github.io/Live/ -->
 ## 个人博客
 - 基于Hexo框架
 - 主题为[aloha](https://github.com/henryhuang/hexo-theme-aloha)
